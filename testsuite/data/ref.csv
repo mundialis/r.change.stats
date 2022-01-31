@@ -1,0 +1,54 @@
+raster value|label|percentage of covered area
+0|No Change|28.43%
+1|Change from Mixed Hardwoods to High Intensity Developed|0.09%
+2|Change from Southern Yellow Pine to High Intensity Developed|1.88%
+3|Change from Mixed Hardwoods/Conifers to High Intensity Developed|0.55%
+4|Change from Managed Herbaceous Cover to High Intensity Developed|1.73%
+5|Change from High Intensity Developed to Mixed Hardwoods|0.09%
+6|Change from Southern Yellow Pine to Mixed Hardwoods|2.76%
+7|Change from Mixed Hardwoods/Conifers to Mixed Hardwoods|0.27%
+8|Change from Low Intensity Developed to Mixed Hardwoods|0.45%
+9|Change from Managed Herbaceous Cover to Mixed Hardwoods|0.18%
+10|Change from High Intensity Developed to Southern Yellow Pine|1.88%
+11|Change from Mixed Hardwoods to Southern Yellow Pine|2.76%
+12|Change from Mixed Hardwoods/Conifers to Southern Yellow Pine|4.08%
+13|Change from Low Intensity Developed to Southern Yellow Pine|4.73%
+14|Change from Water Bodies to Southern Yellow Pine|0.17%
+15|Change from Managed Herbaceous Cover to Southern Yellow Pine|4.09%
+16|Change from Evergreen Shrubland to Southern Yellow Pine|3.73%
+17|Change from Deciduous Shrubland to Southern Yellow Pine|0.32%
+18|Change from High Intensity Developed to Mixed Hardwoods/Conifers|0.55%
+19|Change from Mixed Hardwoods to Mixed Hardwoods/Conifers|0.27%
+20|Change from Southern Yellow Pine to Mixed Hardwoods/Conifers|4.06%
+21|Change from Low Intensity Developed to Mixed Hardwoods/Conifers|1.79%
+22|Change from Water Bodies to Mixed Hardwoods/Conifers|0.08%
+23|Change from Managed Herbaceous Cover to Mixed Hardwoods/Conifers|3.28%
+24|Change from Evergreen Shrubland to Mixed Hardwoods/Conifers|0.71%
+25|Change from Deciduous Shrubland to Mixed Hardwoods/Conifers|0.04%
+26|Change from Mixed Hardwoods to Low Intensity Developed|0.44%
+27|Change from Southern Yellow Pine to Low Intensity Developed|4.72%
+28|Change from Mixed Hardwoods/Conifers to Low Intensity Developed|1.79%
+29|Change from Managed Herbaceous Cover to Low Intensity Developed|0.68%
+30|Change from Evergreen Shrubland to Low Intensity Developed|0.36%
+31|Change from Deciduous Shrubland to Low Intensity Developed|0.04%
+32|Change from Southern Yellow Pine to Water Bodies|0.17%
+33|Change from Mixed Hardwoods/Conifers to Water Bodies|0.08%
+34|Change from Managed Herbaceous Cover to Water Bodies|0.76%
+35|Change from Evergreen Shrubland to Water Bodies|0.12%
+36|Change from High Intensity Developed to Managed Herbaceous Cover|1.73%
+37|Change from Mixed Hardwoods to Managed Herbaceous Cover|0.18%
+38|Change from Southern Yellow Pine to Managed Herbaceous Cover|4.08%
+39|Change from Mixed Hardwoods/Conifers to Managed Herbaceous Cover|3.28%
+40|Change from Low Intensity Developed to Managed Herbaceous Cover|0.68%
+41|Change from Water Bodies to Managed Herbaceous Cover|0.77%
+42|Change from Evergreen Shrubland to Managed Herbaceous Cover|2.89%
+43|Change from Deciduous Shrubland to Managed Herbaceous Cover|0.06%
+44|Change from Southern Yellow Pine to Evergreen Shrubland|3.72%
+45|Change from Mixed Hardwoods/Conifers to Evergreen Shrubland|0.71%
+46|Change from Low Intensity Developed to Evergreen Shrubland|0.36%
+47|Change from Water Bodies to Evergreen Shrubland|0.12%
+48|Change from Managed Herbaceous Cover to Evergreen Shrubland|2.89%
+49|Change from Southern Yellow Pine to Deciduous Shrubland|0.32%
+50|Change from Mixed Hardwoods/Conifers to Deciduous Shrubland|0.04%
+51|Change from Low Intensity Developed to Deciduous Shrubland|0.04%
+52|Change from Managed Herbaceous Cover to Deciduous Shrubland|0.06%
