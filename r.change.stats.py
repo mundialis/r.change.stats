@@ -129,8 +129,6 @@ def reclassify(map_in, map_out, values_in, values_out):
 
 def main():
 
-    global rm_rasters
-
     # parameters
     input = options["input"].split(",")
     if len(input) != 2:
